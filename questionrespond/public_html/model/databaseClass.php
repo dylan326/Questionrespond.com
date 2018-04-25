@@ -22,7 +22,7 @@ class databaseClass
    
  
    
-   public function insertuser($username, $password, $email)
+   private function insertuser($username, $password, $email)
    {
        $connect = $this->connect();
       $hashed = password_hash($password, PASSWORD_DEFAULT);
