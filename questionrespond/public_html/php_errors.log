@@ -1,0 +1,293 @@
+[24-Feb-2018 15:23:43 UTC] PHP Fatal error:  Call to a member function fetch_all() on a non-object in /home/ubuntu/workspace/questionrespond/public_html/model/yourqsdbcall.php on line 38
+[24-Feb-2018 15:23:43 UTC] PHP Stack trace:
+[24-Feb-2018 15:23:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/questionrespond/public_html/model/yourqsdbcall.php:0
+[24-Feb-2018 15:38:01 UTC] PHP Fatal error:  Call to a member function fetch_all() on a non-object in /home/ubuntu/workspace/questionrespond/public_html/model/yourqsdbcall.php on line 38
+[24-Feb-2018 15:38:01 UTC] PHP Stack trace:
+[24-Feb-2018 15:38:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/questionrespond/public_html/model/yourqsdbcall.php:0
+[24-Feb-2018 18:11:08 UTC] PHP Fatal error:  Call to a member function fetch_all() on a non-object in /home/ubuntu/workspace/questionrespond/public_html/model/youransdbcall.php on line 38
+[24-Feb-2018 18:11:08 UTC] PHP Stack trace:
+[24-Feb-2018 18:11:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/questionrespond/public_html/model/youransdbcall.php:0
+[24-Feb-2018 18:29:57 UTC] PHP Fatal error:  Call to a member function fetch_all() on a non-object in /home/ubuntu/workspace/questionrespond/public_html/model/yourqsdbcall.php on line 38
+[24-Feb-2018 18:29:57 UTC] PHP Stack trace:
+[24-Feb-2018 18:29:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/questionrespond/public_html/model/yourqsdbcall.php:0
+[24-Feb-2018 18:30:54 UTC] PHP Fatal error:  Call to a member function fetch_all() on a non-object in /home/ubuntu/workspace/questionrespond/public_html/model/yourqsdbcall.php on line 38
+[24-Feb-2018 18:30:54 UTC] PHP Stack trace:
+[24-Feb-2018 18:30:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/questionrespond/public_html/model/yourqsdbcall.php:0
+[24-Feb-2018 18:31:23 UTC] PHP Fatal error:  Call to a member function fetch_all() on a non-object in /home/ubuntu/workspace/questionrespond/public_html/model/yourqsdbcall.php on line 38
+[24-Feb-2018 18:31:23 UTC] PHP Stack trace:
+[24-Feb-2018 18:31:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/questionrespond/public_html/model/yourqsdbcall.php:0
+[24-Feb-2018 18:32:09 UTC] PHP Fatal error:  Call to a member function fetch_all() on a non-object in /home/ubuntu/workspace/questionrespond/public_html/model/yourqsdbcall.php on line 38
+[24-Feb-2018 18:32:09 UTC] PHP Stack trace:
+[24-Feb-2018 18:32:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/questionrespond/public_html/model/yourqsdbcall.php:0
+[24-Feb-2018 18:33:44 UTC] PHP Fatal error:  Call to a member function fetch_all() on a non-object in /home/ubuntu/workspace/questionrespond/public_html/model/yourqsdbcall.php on line 38
+[24-Feb-2018 18:33:44 UTC] PHP Stack trace:
+[24-Feb-2018 18:33:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/questionrespond/public_html/model/yourqsdbcall.php:0
+[24-Feb-2018 18:36:26 UTC] PHP Fatal error:  Call to a member function fetch_all() on a non-object in /home/ubuntu/workspace/questionrespond/public_html/model/yourqsdbcall.php on line 38
+[24-Feb-2018 18:36:26 UTC] PHP Stack trace:
+[24-Feb-2018 18:36:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/questionrespond/public_html/model/yourqsdbcall.php:0
+[24-Feb-2018 18:37:24 UTC] PHP Fatal error:  Call to a member function fetch_all() on a non-object in /home/ubuntu/workspace/questionrespond/public_html/model/yourqsdbcall.php on line 38
+[24-Feb-2018 18:37:24 UTC] PHP Stack trace:
+[24-Feb-2018 18:37:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/questionrespond/public_html/model/yourqsdbcall.php:0
+[24-Feb-2018 18:39:09 UTC] PHP Fatal error:  Call to a member function fetch_all() on a non-object in /home/ubuntu/workspace/questionrespond/public_html/model/yourqsdbcall.php on line 38
+[24-Feb-2018 18:39:09 UTC] PHP Stack trace:
+[24-Feb-2018 18:39:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/questionrespond/public_html/model/yourqsdbcall.php:0
+[24-Feb-2018 18:39:33 UTC] PHP Fatal error:  Call to a member function fetch_all() on a non-object in /home/ubuntu/workspace/questionrespond/public_html/model/yourqsdbcall.php on line 38
+[24-Feb-2018 18:39:33 UTC] PHP Stack trace:
+[24-Feb-2018 18:39:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/questionrespond/public_html/model/yourqsdbcall.php:0
+[24-Feb-2018 18:49:11 UTC] PHP Fatal error:  Call to a member function fetch_all() on a non-object in /home/ubuntu/workspace/questionrespond/public_html/model/yourqsdbcall.php on line 38
+[24-Feb-2018 18:49:11 UTC] PHP Stack trace:
+[24-Feb-2018 18:49:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/questionrespond/public_html/model/yourqsdbcall.php:0
+[24-Feb-2018 18:51:35 UTC] PHP Fatal error:  Call to a member function fetch_all() on a non-object in /home/ubuntu/workspace/questionrespond/public_html/model/yourqsdbcall.php on line 38
+[24-Feb-2018 18:51:35 UTC] PHP Stack trace:
+[24-Feb-2018 18:51:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/questionrespond/public_html/model/yourqsdbcall.php:0
+[25-Feb-2018 00:07:39 UTC] PHP Fatal error:  Call to a member function fetch_all() on a non-object in /home/ubuntu/workspace/questionrespond/public_html/model/yourqsdbcall.php on line 38
+[25-Feb-2018 00:07:39 UTC] PHP Stack trace:
+[25-Feb-2018 00:07:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/questionrespond/public_html/model/yourqsdbcall.php:0
+[25-Feb-2018 00:08:01 UTC] PHP Fatal error:  Call to a member function fetch_all() on a non-object in /home/ubuntu/workspace/questionrespond/public_html/model/yourqsdbcall.php on line 38
+[25-Feb-2018 00:08:01 UTC] PHP Stack trace:
+[25-Feb-2018 00:08:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/questionrespond/public_html/model/yourqsdbcall.php:0
+[25-Feb-2018 00:10:18 UTC] PHP Fatal error:  Call to a member function fetch_all() on a non-object in /home/ubuntu/workspace/questionrespond/public_html/model/yourqsdbcall.php on line 38
+[25-Feb-2018 00:10:18 UTC] PHP Stack trace:
+[25-Feb-2018 00:10:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/questionrespond/public_html/model/yourqsdbcall.php:0
+[25-Feb-2018 00:13:45 UTC] PHP Fatal error:  Call to a member function fetch_all() on a non-object in /home/ubuntu/workspace/questionrespond/public_html/model/yourqsdbcall.php on line 38
+[25-Feb-2018 00:13:45 UTC] PHP Stack trace:
+[25-Feb-2018 00:13:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/questionrespond/public_html/model/yourqsdbcall.php:0
+[25-Feb-2018 00:22:35 UTC] PHP Fatal error:  Call to a member function fetch_all() on a non-object in /home/ubuntu/workspace/questionrespond/public_html/model/yourqsdbcall.php on line 40
+[25-Feb-2018 00:22:35 UTC] PHP Stack trace:
+[25-Feb-2018 00:22:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/questionrespond/public_html/model/yourqsdbcall.php:0
+[25-Feb-2018 00:25:46 UTC] PHP Fatal error:  Call to a member function fetch_all() on a non-object in /home/ubuntu/workspace/questionrespond/public_html/model/yourqsdbcall.php on line 40
+[25-Feb-2018 00:25:47 UTC] PHP Stack trace:
+[25-Feb-2018 00:25:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/questionrespond/public_html/model/yourqsdbcall.php:0
+[25-Feb-2018 00:26:56 UTC] PHP Fatal error:  Call to a member function fetch_all() on a non-object in /home/ubuntu/workspace/questionrespond/public_html/model/yourqsdbcall.php on line 40
+[25-Feb-2018 00:26:56 UTC] PHP Stack trace:
+[25-Feb-2018 00:26:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/questionrespond/public_html/model/yourqsdbcall.php:0
+[25-Feb-2018 00:33:13 UTC] PHP Fatal error:  Call to a member function fetch_all() on a non-object in /home/ubuntu/workspace/questionrespond/public_html/model/yourqsdbcall.php on line 40
+[25-Feb-2018 00:33:13 UTC] PHP Stack trace:
+[25-Feb-2018 00:33:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/questionrespond/public_html/model/yourqsdbcall.php:0
+[25-Feb-2018 00:34:28 UTC] PHP Fatal error:  Call to a member function fetch_all() on a non-object in /home/ubuntu/workspace/questionrespond/public_html/model/yourqsdbcall.php on line 40
+[25-Feb-2018 00:34:28 UTC] PHP Stack trace:
+[25-Feb-2018 00:34:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/questionrespond/public_html/model/yourqsdbcall.php:0
+[25-Feb-2018 00:37:17 UTC] PHP Fatal error:  Call to a member function fetch_all() on a non-object in /home/ubuntu/workspace/questionrespond/public_html/model/yourqsdbcall.php on line 40
+[25-Feb-2018 00:37:17 UTC] PHP Stack trace:
+[25-Feb-2018 00:37:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/questionrespond/public_html/model/yourqsdbcall.php:0
+[25-Feb-2018 00:38:19 UTC] PHP Fatal error:  Call to a member function fetch_all() on a non-object in /home/ubuntu/workspace/questionrespond/public_html/model/yourqsdbcall.php on line 40
+[25-Feb-2018 00:38:19 UTC] PHP Stack trace:
+[25-Feb-2018 00:38:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/questionrespond/public_html/model/yourqsdbcall.php:0
+[25-Feb-2018 00:44:04 UTC] PHP Fatal error:  Call to a member function fetch_all() on a non-object in /home/ubuntu/workspace/questionrespond/public_html/model/yourqsdbcall.php on line 40
+[25-Feb-2018 00:44:04 UTC] PHP Stack trace:
+[25-Feb-2018 00:44:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/questionrespond/public_html/model/yourqsdbcall.php:0
+[25-Feb-2018 01:50:41 UTC] PHP Fatal error:  Call to a member function fetch_all() on a non-object in /home/ubuntu/workspace/questionrespond/public_html/model/youransdbcall.php on line 38
+[25-Feb-2018 01:50:41 UTC] PHP Stack trace:
+[25-Feb-2018 01:50:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/questionrespond/public_html/model/youransdbcall.php:0
+[16-Mar-2018 16:49:30 UTC] PHP Fatal error:  Call to a member function fetch_all() on a non-object in /home/ubuntu/workspace/questionrespond/public_html/model/testdbcall.php on line 15
+[16-Mar-2018 16:49:30 UTC] PHP Stack trace:
+[16-Mar-2018 16:49:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/questionrespond/public_html/model/testdbcall.php:0
+[18-Apr-2018 00:34:51 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/questionrespondTestArea/public_html/model/connectivity.php on line 10
+[18-Apr-2018 00:34:51 UTC] PHP Stack trace:
+[18-Apr-2018 00:34:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/connectivity.php:0
+[18-Apr-2018 00:37:39 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/questionrespondTestArea/public_html/model/testdbcall.php on line 14
+[18-Apr-2018 00:37:39 UTC] PHP Stack trace:
+[18-Apr-2018 00:37:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/testdbcall.php:0
+[18-Apr-2018 00:38:49 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/questionrespondTestArea/public_html/model/connectivity.php on line 10
+[18-Apr-2018 00:38:49 UTC] PHP Stack trace:
+[18-Apr-2018 00:38:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/connectivity.php:0
+[18-Apr-2018 00:40:56 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/questionrespondTestArea/public_html/model/connectivity.php on line 15
+[18-Apr-2018 00:40:56 UTC] PHP Stack trace:
+[18-Apr-2018 00:40:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/connectivity.php:0
+[18-Apr-2018 00:42:38 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/questionrespondTestArea/public_html/model/testdbcall.php on line 14
+[18-Apr-2018 00:42:38 UTC] PHP Stack trace:
+[18-Apr-2018 00:42:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/testdbcall.php:0
+[18-Apr-2018 01:17:10 UTC] PHP Warning:  mysqli::query(): Empty query in /home/ubuntu/workspace/questionrespondTestArea/public_html/model/dbopen.php on line 82
+[18-Apr-2018 01:17:10 UTC] PHP Stack trace:
+[18-Apr-2018 01:17:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/connectivity.php:0
+[18-Apr-2018 01:17:10 UTC] PHP   2. dbopen->login() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/connectivity.php:13
+[18-Apr-2018 01:17:10 UTC] PHP   3. mysqli->query() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/dbopen.php:82
+[18-Apr-2018 01:18:40 UTC] PHP Warning:  mysqli::query(): Empty query in /home/ubuntu/workspace/questionrespondTestArea/public_html/model/dbopen.php on line 82
+[18-Apr-2018 01:18:40 UTC] PHP Stack trace:
+[18-Apr-2018 01:18:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/connectivity.php:0
+[18-Apr-2018 01:18:40 UTC] PHP   2. dbopen->login() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/connectivity.php:13
+[18-Apr-2018 01:18:40 UTC] PHP   3. mysqli->query() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/dbopen.php:82
+[18-Apr-2018 01:23:30 UTC] PHP Warning:  mysqli::query(): Empty query in /home/ubuntu/workspace/questionrespondTestArea/public_html/model/dbopen.php on line 84
+[18-Apr-2018 01:23:30 UTC] PHP Stack trace:
+[18-Apr-2018 01:23:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/connectivity.php:0
+[18-Apr-2018 01:23:30 UTC] PHP   2. dbopen->login() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/connectivity.php:13
+[18-Apr-2018 01:23:30 UTC] PHP   3. mysqli->query() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/dbopen.php:84
+[18-Apr-2018 14:45:01 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/questionrespondTestArea/public_html/model/testdbcall.php on line 14
+[18-Apr-2018 14:45:01 UTC] PHP Stack trace:
+[18-Apr-2018 14:45:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/testdbcall.php:0
+[18-Apr-2018 14:46:55 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/questionrespondTestArea/public_html/model/testdbcall.php on line 14
+[18-Apr-2018 14:46:55 UTC] PHP Stack trace:
+[18-Apr-2018 14:46:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/testdbcall.php:0
+[18-Apr-2018 14:51:55 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/questionrespondTestArea/public_html/model/testdbcall.php on line 14
+[18-Apr-2018 14:51:55 UTC] PHP Stack trace:
+[18-Apr-2018 14:51:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/testdbcall.php:0
+[18-Apr-2018 15:34:36 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/questionrespondTestArea/public_html/model/testdbcall.php on line 14
+[18-Apr-2018 15:34:36 UTC] PHP Stack trace:
+[18-Apr-2018 15:34:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/testdbcall.php:0
+[18-Apr-2018 15:34:48 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/questionrespondTestArea/public_html/model/testdbcall.php on line 14
+[18-Apr-2018 15:34:48 UTC] PHP Stack trace:
+[18-Apr-2018 15:34:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/testdbcall.php:0
+[18-Apr-2018 15:36:25 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/questionrespondTestArea/public_html/model/testdbcall.php on line 14
+[18-Apr-2018 15:36:25 UTC] PHP Stack trace:
+[18-Apr-2018 15:36:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/testdbcall.php:0
+[18-Apr-2018 15:36:35 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/questionrespondTestArea/public_html/model/testdbcall.php on line 14
+[18-Apr-2018 15:36:35 UTC] PHP Stack trace:
+[18-Apr-2018 15:36:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/testdbcall.php:0
+[18-Apr-2018 15:36:40 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/questionrespondTestArea/public_html/model/testdbcall.php on line 14
+[18-Apr-2018 15:36:40 UTC] PHP Stack trace:
+[18-Apr-2018 15:36:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/testdbcall.php:0
+[18-Apr-2018 15:39:31 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/questionrespondTestArea/public_html/model/testdbcall.php on line 18
+[18-Apr-2018 15:39:31 UTC] PHP Stack trace:
+[18-Apr-2018 15:39:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/testdbcall.php:0
+[18-Apr-2018 15:42:51 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/questionrespondTestArea/public_html/model/testdbcall.php on line 20
+[18-Apr-2018 15:42:51 UTC] PHP Stack trace:
+[18-Apr-2018 15:42:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/testdbcall.php:0
+[18-Apr-2018 15:46:57 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/questionrespondTestArea/public_html/model/testdbcall.php on line 20
+[18-Apr-2018 15:46:57 UTC] PHP Stack trace:
+[18-Apr-2018 15:46:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/testdbcall.php:0
+[18-Apr-2018 15:47:34 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/questionrespondTestArea/public_html/model/testdbcall.php on line 20
+[18-Apr-2018 15:47:34 UTC] PHP Stack trace:
+[18-Apr-2018 15:47:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/testdbcall.php:0
+[18-Apr-2018 18:09:59 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/questionrespondTestArea/public_html/model/question_suggestion.php on line 12
+[18-Apr-2018 18:09:59 UTC] PHP Stack trace:
+[18-Apr-2018 18:09:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/question_suggestion.php:0
+[18-Apr-2018 18:09:59 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/question_suggestion.php:12
+[18-Apr-2018 18:09:59 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/questionrespondTestArea/public_html/model/question_suggestion.php on line 13
+[18-Apr-2018 18:09:59 UTC] PHP Stack trace:
+[18-Apr-2018 18:09:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/question_suggestion.php:0
+[18-Apr-2018 18:09:59 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/question_suggestion.php:13
+[18-Apr-2018 18:10:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/questionrespondTestArea/public_html/model/question_suggestion.php on line 12
+[18-Apr-2018 18:10:02 UTC] PHP Stack trace:
+[18-Apr-2018 18:10:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/question_suggestion.php:0
+[18-Apr-2018 18:10:02 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/question_suggestion.php:12
+[18-Apr-2018 18:10:02 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/questionrespondTestArea/public_html/model/question_suggestion.php on line 13
+[18-Apr-2018 18:10:02 UTC] PHP Stack trace:
+[18-Apr-2018 18:10:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/question_suggestion.php:0
+[18-Apr-2018 18:10:02 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/question_suggestion.php:13
+[18-Apr-2018 21:40:14 UTC] PHP Fatal error:  Call to undefined method dbopen::subq() in /home/ubuntu/workspace/questionrespondTestArea/public_html/model/subq.php on line 15
+[18-Apr-2018 21:40:14 UTC] PHP Stack trace:
+[18-Apr-2018 21:40:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/subq.php:0
+[18-Apr-2018 21:42:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/questionrespondTestArea/public_html/model/question_suggestion.php on line 12
+[18-Apr-2018 21:42:58 UTC] PHP Stack trace:
+[18-Apr-2018 21:42:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/question_suggestion.php:0
+[18-Apr-2018 21:42:58 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/question_suggestion.php:12
+[18-Apr-2018 21:42:58 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/questionrespondTestArea/public_html/model/question_suggestion.php on line 13
+[18-Apr-2018 21:42:58 UTC] PHP Stack trace:
+[18-Apr-2018 21:42:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/question_suggestion.php:0
+[18-Apr-2018 21:42:58 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/question_suggestion.php:13
+[18-Apr-2018 21:42:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/questionrespondTestArea/public_html/model/question_suggestion.php on line 12
+[18-Apr-2018 21:42:58 UTC] PHP Stack trace:
+[18-Apr-2018 21:42:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/question_suggestion.php:0
+[18-Apr-2018 21:42:58 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/question_suggestion.php:12
+[18-Apr-2018 21:42:58 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/questionrespondTestArea/public_html/model/question_suggestion.php on line 13
+[18-Apr-2018 21:42:58 UTC] PHP Stack trace:
+[18-Apr-2018 21:42:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/question_suggestion.php:0
+[18-Apr-2018 21:42:58 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/question_suggestion.php:13
+[18-Apr-2018 21:43:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/questionrespondTestArea/public_html/model/question_suggestion.php on line 12
+[18-Apr-2018 21:43:05 UTC] PHP Stack trace:
+[18-Apr-2018 21:43:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/question_suggestion.php:0
+[18-Apr-2018 21:43:05 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/question_suggestion.php:12
+[18-Apr-2018 21:43:05 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/questionrespondTestArea/public_html/model/question_suggestion.php on line 13
+[18-Apr-2018 21:43:05 UTC] PHP Stack trace:
+[18-Apr-2018 21:43:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/question_suggestion.php:0
+[18-Apr-2018 21:43:05 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/question_suggestion.php:13
+[18-Apr-2018 21:43:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/questionrespondTestArea/public_html/model/question_suggestion.php on line 12
+[18-Apr-2018 21:43:05 UTC] PHP Stack trace:
+[18-Apr-2018 21:43:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/question_suggestion.php:0
+[18-Apr-2018 21:43:05 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/question_suggestion.php:12
+[18-Apr-2018 21:43:05 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/questionrespondTestArea/public_html/model/question_suggestion.php on line 13
+[18-Apr-2018 21:43:05 UTC] PHP Stack trace:
+[18-Apr-2018 21:43:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/question_suggestion.php:0
+[18-Apr-2018 21:43:05 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/question_suggestion.php:13
+[18-Apr-2018 21:47:39 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/questionrespondTestArea/public_html/model/dbopen.php on line 110
+[18-Apr-2018 21:47:39 UTC] PHP Stack trace:
+[18-Apr-2018 21:47:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/subq.php:0
+[18-Apr-2018 21:47:39 UTC] PHP   2. dbopen->subq() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/subq.php:14
+[18-Apr-2018 21:51:25 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/questionrespondTestArea/public_html/model/dbopen.php on line 110
+[18-Apr-2018 21:51:25 UTC] PHP Stack trace:
+[18-Apr-2018 21:51:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/subq.php:0
+[18-Apr-2018 21:51:25 UTC] PHP   2. dbopen->subq() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/subq.php:14
+[18-Apr-2018 21:56:31 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/questionrespondTestArea/public_html/model/dbopen.php on line 110
+[18-Apr-2018 21:56:31 UTC] PHP Stack trace:
+[18-Apr-2018 21:56:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/subq.php:0
+[18-Apr-2018 21:56:31 UTC] PHP   2. dbopen->subq() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/subq.php:14
+[18-Apr-2018 22:05:24 UTC] PHP Fatal error:  Cannot pass parameter 4 by reference in /home/ubuntu/workspace/questionrespondTestArea/public_html/model/dbopen.php on line 117
+[18-Apr-2018 22:05:24 UTC] PHP Stack trace:
+[18-Apr-2018 22:05:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/subq.php:0
+[18-Apr-2018 22:05:24 UTC] PHP   2. dbopen->subq() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/subq.php:14
+[19-Apr-2018 15:51:16 UTC] PHP Fatal error:  Cannot pass parameter 5 by reference in /home/ubuntu/workspace/questionrespondTestArea/public_html/model/dbopen.php on line 112
+[19-Apr-2018 15:51:16 UTC] PHP Stack trace:
+[19-Apr-2018 15:51:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/subq.php:0
+[19-Apr-2018 15:51:16 UTC] PHP   2. dbopen->subq() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/subq.php:14
+[19-Apr-2018 15:57:31 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/ubuntu/workspace/questionrespondTestArea/public_html/model/dbopen.php on line 112
+[19-Apr-2018 15:57:31 UTC] PHP Stack trace:
+[19-Apr-2018 15:57:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/subq.php:0
+[19-Apr-2018 15:57:31 UTC] PHP   2. dbopen->subq() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/subq.php:14
+[19-Apr-2018 15:57:31 UTC] PHP   3. mysqli_stmt->bind_param() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/dbopen.php:112
+[19-Apr-2018 15:58:15 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/ubuntu/workspace/questionrespondTestArea/public_html/model/dbopen.php on line 112
+[19-Apr-2018 15:58:15 UTC] PHP Stack trace:
+[19-Apr-2018 15:58:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/subq.php:0
+[19-Apr-2018 15:58:15 UTC] PHP   2. dbopen->subq() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/subq.php:14
+[19-Apr-2018 15:58:15 UTC] PHP   3. mysqli_stmt->bind_param() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/dbopen.php:112
+[19-Apr-2018 15:59:23 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/ubuntu/workspace/questionrespondTestArea/public_html/model/dbopen.php on line 112
+[19-Apr-2018 15:59:23 UTC] PHP Stack trace:
+[19-Apr-2018 15:59:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/subq.php:0
+[19-Apr-2018 15:59:23 UTC] PHP   2. dbopen->subq() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/subq.php:14
+[19-Apr-2018 15:59:23 UTC] PHP   3. mysqli_stmt->bind_param() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/dbopen.php:112
+[19-Apr-2018 16:02:57 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/ubuntu/workspace/questionrespondTestArea/public_html/model/dbopen.php on line 112
+[19-Apr-2018 16:02:57 UTC] PHP Stack trace:
+[19-Apr-2018 16:02:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/subq.php:0
+[19-Apr-2018 16:02:57 UTC] PHP   2. dbopen->subq() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/subq.php:14
+[19-Apr-2018 16:02:57 UTC] PHP   3. mysqli_stmt->bind_param() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/dbopen.php:112
+[19-Apr-2018 16:03:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/questionrespondTestArea/public_html/model/question_suggestion.php on line 12
+[19-Apr-2018 16:03:50 UTC] PHP Stack trace:
+[19-Apr-2018 16:03:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/question_suggestion.php:0
+[19-Apr-2018 16:03:50 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/question_suggestion.php:12
+[19-Apr-2018 16:03:50 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/questionrespondTestArea/public_html/model/question_suggestion.php on line 13
+[19-Apr-2018 16:03:50 UTC] PHP Stack trace:
+[19-Apr-2018 16:03:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/question_suggestion.php:0
+[19-Apr-2018 16:03:50 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/question_suggestion.php:13
+[19-Apr-2018 16:03:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/questionrespondTestArea/public_html/model/question_suggestion.php on line 12
+[19-Apr-2018 16:03:52 UTC] PHP Stack trace:
+[19-Apr-2018 16:03:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/question_suggestion.php:0
+[19-Apr-2018 16:03:52 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/question_suggestion.php:12
+[19-Apr-2018 16:03:52 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/questionrespondTestArea/public_html/model/question_suggestion.php on line 13
+[19-Apr-2018 16:03:52 UTC] PHP Stack trace:
+[19-Apr-2018 16:03:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/question_suggestion.php:0
+[19-Apr-2018 16:03:52 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/question_suggestion.php:13
+[19-Apr-2018 16:18:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/questionrespondTestArea/public_html/model/question_suggestion.php on line 12
+[19-Apr-2018 16:18:00 UTC] PHP Stack trace:
+[19-Apr-2018 16:18:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/question_suggestion.php:0
+[19-Apr-2018 16:18:00 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/question_suggestion.php:12
+[19-Apr-2018 16:18:00 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/questionrespondTestArea/public_html/model/question_suggestion.php on line 13
+[19-Apr-2018 16:18:00 UTC] PHP Stack trace:
+[19-Apr-2018 16:18:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/question_suggestion.php:0
+[19-Apr-2018 16:18:00 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/question_suggestion.php:13
+[19-Apr-2018 18:43:31 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ubuntu/workspace/questionrespondTestArea/public_html/model/dbopen.php on line 56
+[19-Apr-2018 18:43:31 UTC] PHP Stack trace:
+[19-Apr-2018 18:43:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/connectivity.php:0
+[19-Apr-2018 18:43:31 UTC] PHP   2. dbopen->login() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/connectivity.php:15
+[20-Apr-2018 13:13:40 UTC] PHP Warning:  include(databaseClass): failed to open stream: No such file or directory in /home/ubuntu/workspace/questionrespondTestArea/public_html/model/connectivity.php on line 3
+[20-Apr-2018 13:13:40 UTC] PHP Stack trace:
+[20-Apr-2018 13:13:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/connectivity.php:0
+[20-Apr-2018 13:13:40 UTC] PHP Warning:  include(): Failed opening 'databaseClass' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/questionrespondTestArea/public_html/model/connectivity.php on line 3
+[20-Apr-2018 13:13:40 UTC] PHP Stack trace:
+[20-Apr-2018 13:13:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/connectivity.php:0
+[20-Apr-2018 13:13:40 UTC] PHP Fatal error:  Class 'databaseClass' not found in /home/ubuntu/workspace/questionrespondTestArea/public_html/model/connectivity.php on line 5
+[20-Apr-2018 13:13:40 UTC] PHP Stack trace:
+[20-Apr-2018 13:13:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/connectivity.php:0
+[20-Apr-2018 13:14:24 UTC] PHP Warning:  include(databaseClass): failed to open stream: No such file or directory in /home/ubuntu/workspace/questionrespondTestArea/public_html/model/connectivity.php on line 3
+[20-Apr-2018 13:14:24 UTC] PHP Stack trace:
+[20-Apr-2018 13:14:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/connectivity.php:0
+[20-Apr-2018 13:14:24 UTC] PHP Warning:  include(): Failed opening 'databaseClass' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/questionrespondTestArea/public_html/model/connectivity.php on line 3
+[20-Apr-2018 13:14:24 UTC] PHP Stack trace:
+[20-Apr-2018 13:14:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/connectivity.php:0
+[20-Apr-2018 13:14:24 UTC] PHP Fatal error:  Class 'databaseClass' not found in /home/ubuntu/workspace/questionrespondTestArea/public_html/model/connectivity.php on line 5
+[20-Apr-2018 13:14:24 UTC] PHP Stack trace:
+[20-Apr-2018 13:14:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/connectivity.php:0
+[20-Apr-2018 15:59:35 UTC] PHP Fatal error:  Call to private method databaseClass::connect() from context '' in /home/ubuntu/workspace/questionrespondTestArea/public_html/model/testdbcall.php on line 12
+[20-Apr-2018 15:59:35 UTC] PHP Stack trace:
+[20-Apr-2018 15:59:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/testdbcall.php:0
+[20-Apr-2018 15:59:47 UTC] PHP Fatal error:  Call to private method databaseClass::connect() from context '' in /home/ubuntu/workspace/questionrespondTestArea/public_html/model/testdbcall.php on line 12
+[20-Apr-2018 15:59:47 UTC] PHP Stack trace:
+[20-Apr-2018 15:59:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/questionrespondTestArea/public_html/model/testdbcall.php:0
