@@ -1,4 +1,7 @@
-       function search_ajax()
+//this file is used with the search.php top level file.  
+//it allows the user to have the letters he or she presses pull similar questions from the database
+
+	function search_ajax()
 {
 var questions_var = document.getElementById("searchajax").value;
 var xhr;
