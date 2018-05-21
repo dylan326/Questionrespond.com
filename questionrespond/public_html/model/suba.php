@@ -2,13 +2,11 @@
 <?php
 
     session_start();
-   //include('controller/checker.php');
+   
     include('databaseClass.php');
+    //create object
     $databaseClass = new databaseClass();
     
-    //$connect = $dbopen->connect();
-    
-   
     $answerWash = $databaseClass->wash($_POST['answer']);
     
     $q_id = $_POST["type"];
@@ -19,11 +17,12 @@
     
     $username = $_SESSION["username"];
     
-    
+    //call suba method and submit an answer to a question
     $answerSubmitted = $databaseClass->suba($answerWash, $q_id, $username, $qa_question, $qa_username);
     
     if ($answerSubmitted == true)
     {
+        //once submitted it re-directs back to totalqs
         header("Location: ../totalqs.php?q_id=$q_id&question=$qa_question'&username=$qa_username");
     }
     else 
