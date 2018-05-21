@@ -10,13 +10,11 @@ include('controller/checker.php');
     <script type = "text/javascript"
             src = "https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
     <script src="./view/logout.js"></script>
-    <script type="text/javascript"
-                src = "../public_html/controller/askJSONcall.js"></script>
+        <!-- This calls the JSON put in the id putquestionask -->
+    <script type="text/javascript" src = "../public_html/controller/askJSONcall.js"></script>
     <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
     </head>
     <body>
     
@@ -44,15 +42,15 @@ include('controller/checker.php');
     
     <center><h2><b>Hi <?php echo $_SESSION['username']; ?> </b></h2></center>
     
-       <div class="askbar"> <form action='model/subq.php' method='post'>
+       <div class="askbar"> 
+           <form action='model/subq.php' method='post'>
           
             <center><input   type='text' name='question' size='100' style="height: 30px;" placeholder='Ask a Question...'><span><input type ='submit'value = 'Submit' style="height: 30px; background-color: black; color: white;"></span></center>
             <input type='hidden' name='username' value='<?= $_SESSION['username']; ?>' >
-           <!-- <input type ='submit'value = 'Submit'>-->
-        </form></div>
-    
+           
+            </form>
+        </div>
     <br>
-    <!--<center><h1 id ="fq" onMouseOver="change();" >?</h1></center>-->
     <div id="askquestionsheader"><h4>Recent Questions</h4></div>
     <br>
     <div id="putquestionask"></div>
