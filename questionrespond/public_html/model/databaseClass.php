@@ -8,6 +8,7 @@ class databaseClass
     
     public function __construct(){}
    
+    //connect to database and pull from config file for protection. credentials in a config file outside the root
    public function connect()
    {
        $config = parse_ini_file('/home/ubuntu/workspace/OOP/config.ini');
@@ -36,6 +37,7 @@ class databaseClass
 
    }
    
+    //method to protect aginst XXS attacks
    public function wash($input)
    {
        
@@ -44,7 +46,7 @@ class databaseClass
     return $input;
    }
     
-    
+    //function logs in using prepared statements and starts a session to identify user
     public function login($username, $password)
     {
         $connect = $this->connect();
@@ -74,6 +76,7 @@ class databaseClass
         
     }
     
+    //method submits an answer to a question
   public function suba($answer, $q_id, $username, $qa_question, $qa_username)
    {
        $connect = $this->connect();
@@ -86,7 +89,8 @@ class databaseClass
         return $stmt;
      
    }
-
+    
+    //method submits question to the site
     public function subq($question, $uname, $email)
     {
         $connect = $this->connect();
